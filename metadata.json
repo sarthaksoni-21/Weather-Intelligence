@@ -1,0 +1,6 @@
+{
+  "name": "Weather Dashboard",
+  "description": "A responsive weather dashboard featuring city search, current weather conditions, 7-day weather forecasts, interactive charts, and contextual weather recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
